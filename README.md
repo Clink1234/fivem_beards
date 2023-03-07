@@ -1,4 +1,4 @@
-# esx_beards
+# fivem_beards
 
 Addon beards for FiveM.
 
