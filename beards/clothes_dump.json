@@ -1,0 +1,65 @@
+[
+  {
+    "DlcCollectionName": "mp_m_beards",
+    "PedName": "mp_m_freemode_01",
+    "ComponentVariations": [
+      {
+        "NameHash": "CLO_DCT_MASK_0_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 198,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_1_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 199,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 1
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_2_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 200,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 2
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_3_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 201,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 3
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_4_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 202,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 4
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_5_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 203,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 5
+      },
+      {
+        "NameHash": "CLO_DCT_MASK_6_0_M",
+        "ComponentType": "PV_COMP_BERD",
+        "ComponentId": 1,
+        "DrawableId": 204,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 6
+      }
+    ],
+    "Props": []
+  }
+]
